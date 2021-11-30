@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning a master program in Data Science at Universidad Politécnica de Madrid
 - 🔭 I’m currently working on Ontology Engineering Group (UPM) 
-- 🏋️ I'm currently training powerlifting
+- 🏋️ I'm currently training powerlifting in Madrid
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
