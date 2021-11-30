@@ -10,6 +10,7 @@
 - [[Binary Search] Revolving Door](https://dev.to/jiangwenqi/binary-search-revolving-door-1ofl)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 ![Wenqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangwenqi&show_icons=true&count_private=true)
 
