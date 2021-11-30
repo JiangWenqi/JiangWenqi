@@ -6,4 +6,6 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Binary Search]Unique Fractions](https://dev.to/jiangwenqi/unique-fractions-9d0)
+- [[Binary Search] Revolving Door](https://dev.to/jiangwenqi/binary-search-revolving-door-1ofl)
 <!-- BLOG-POST-LIST:END -->
