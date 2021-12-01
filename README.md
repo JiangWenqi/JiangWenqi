@@ -6,6 +6,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Binary Search]Univalue Tree Count](https://dev.to/jiangwenqi/binary-searchunivalue-tree-count-2eh2)
 - [Binary Search Templates](https://dev.to/jiangwenqi/binary-search-templates-5glk)
 - [[Binary Search]Unique Fractions](https://dev.to/jiangwenqi/unique-fractions-9d0)
 - [[Binary Search] Revolving Door](https://dev.to/jiangwenqi/binary-search-revolving-door-1ofl)
