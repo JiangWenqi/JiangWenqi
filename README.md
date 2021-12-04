@@ -6,11 +6,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Binary Search]Reverse Sublists to Convert to Target](https://dev.to/jiangwenqi/binary-searchreverse-sublists-to-convert-to-target-4i38)
 - [[Binary Search]Skydivers](https://dev.to/jiangwenqi/binary-searchskydivers-pn6)
 - [[Binary Search]Univalue Tree Count](https://dev.to/jiangwenqi/binary-searchunivalue-tree-count-2eh2)
 - [Binary Search Templates](https://dev.to/jiangwenqi/binary-search-templates-5glk)
 - [[Binary Search]Unique Fractions](https://dev.to/jiangwenqi/unique-fractions-9d0)
-- [[Binary Search]Revolving Door](https://dev.to/jiangwenqi/binary-search-revolving-door-1ofl)
 <!-- BLOG-POST-LIST:END -->
 
 
