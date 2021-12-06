@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Ontology Engineering Group (UPM) 
 - 🏋️ I'm currently training powerlifting in Madrid
 
-# Blog posts
+# (Blog Posts)[dev.to/jiangwenqi]
 <!-- BLOG-POST-LIST:START -->
 - [Flight Arrival Delay Predictor&lpar;python&rpar;](https://dev.to/jiangwenqi/flight-arrival-delay-predictorpython-1oi8)
 - [Flight Arrival Delay Predictor&lpar;Scala&rpar;](https://dev.to/jiangwenqi/flight-arrival-delay-predictorscala-45jg)
