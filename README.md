@@ -6,11 +6,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flight Arrival Delay Predictor&lpar;python&rpar;](https://dev.to/jiangwenqi/flight-arrival-delay-predictorpython-1oi8)
+- [Flight Arrival Delay Predictor&lpar;Scala&rpar;](https://dev.to/jiangwenqi/flight-arrival-delay-predictorscala-45jg)
+- [[Binary Search] Hoppable](https://dev.to/jiangwenqi/binary-search-hoppable-2n31)
 - [[Binary Search]Rotate List Left by K](https://dev.to/jiangwenqi/binary-searchrotate-list-left-by-k-5aik)
 - [[Binary Search]Reverse Sublists to Convert to Target](https://dev.to/jiangwenqi/binary-searchreverse-sublists-to-convert-to-target-4i38)
-- [[Binary Search]Skydivers](https://dev.to/jiangwenqi/binary-searchskydivers-pn6)
-- [[Binary Search]Univalue Tree Count](https://dev.to/jiangwenqi/binary-searchunivalue-tree-count-2eh2)
-- [Binary Search Templates](https://dev.to/jiangwenqi/binary-search-templates-5glk)
 <!-- BLOG-POST-LIST:END -->
 
 
