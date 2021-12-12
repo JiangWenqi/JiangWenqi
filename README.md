@@ -6,11 +6,11 @@
 
 # [Blog Posts](dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [[Binary Search]Find the Largest Number in a Rotated List](https://dev.to/jiangwenqi/find-the-largest-number-in-a-rotated-list-3f7m)
 - [[Binary Search]First Missing Positive](https://dev.to/jiangwenqi/binary-searchfirst-missing-positive-3klj)
 - [[Binary Search]Leaves in Same Level](https://dev.to/jiangwenqi/leaves-in-same-level-4h19)
 - [[Binary Search]Decode Message](https://dev.to/jiangwenqi/binary-searchdecode-message-2idi)
 - [Designing a URL Shortening service like TinyURL](https://dev.to/jiangwenqi/designing-a-url-shortening-service-like-tinyurl-j79)
-- [System Design Interviews: A step by step guide](https://dev.to/jiangwenqi/system-design-interviews-a-step-by-step-guide-4f7l)
 <!-- BLOG-POST-LIST:END -->
 
 
