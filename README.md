@@ -6,11 +6,11 @@
 
 # [Blog Posts](dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [[Binary Search]Largest Tree Sum Path](https://dev.to/jiangwenqi/binary-searchlargest-tree-sum-path-3b41)
 - [[Binary Search]Perfect Squares](https://dev.to/jiangwenqi/binary-searchperfect-squares-144o)
 - [[Binary Search]Repeated Deletion](https://dev.to/jiangwenqi/binary-searchrepeated-deletion-621)
 - [[Binary Search]Arithmetic Sequences](https://dev.to/jiangwenqi/binary-searcharithmetic-sequences-4o76)
 - [[Binary Search]Find the Largest Number in a Rotated List](https://dev.to/jiangwenqi/find-the-largest-number-in-a-rotated-list-jpg)
-- [[Binary Search]Find the Largest Number in a Rotated List](https://dev.to/jiangwenqi/find-the-largest-number-in-a-rotated-list-3f7m)
 <!-- BLOG-POST-LIST:END -->
 
 
