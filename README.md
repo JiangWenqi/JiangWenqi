@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [Linked List Folding](https://dev.to/jiangwenqi/linked-list-folding-2913)
 - [Linked List Jumps](https://dev.to/jiangwenqi/linked-list-jumps-k1h)
 - [Palindrome Linked List](https://dev.to/jiangwenqi/palindrome-linked-list-2p3b)
 - [Subtree with Maximum Value](https://dev.to/jiangwenqi/subtree-with-maximum-value-20nk)
 - [Number of Palindromic Substrings](https://dev.to/jiangwenqi/number-of-palindromic-substrings-342n)
-- [Lowest Common Ancestor](https://dev.to/jiangwenqi/lowest-common-ancestor-4cg2)
 <!-- BLOG-POST-LIST:END -->
 
 
