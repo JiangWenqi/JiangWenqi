@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [Reverse an Inner Linked List](https://dev.to/jiangwenqi/reverse-an-inner-linked-list-3lge)
 - [Pairwise Linked List Swap](https://dev.to/jiangwenqi/pairwise-linked-list-swap-5g36)
 - [Remove Duplicates in Linked List](https://dev.to/jiangwenqi/remove-duplicates-in-linked-list-4io)
 - [Linked List Folding](https://dev.to/jiangwenqi/linked-list-folding-2913)
 - [Linked List Jumps](https://dev.to/jiangwenqi/linked-list-jumps-k1h)
-- [Palindrome Linked List](https://dev.to/jiangwenqi/palindrome-linked-list-2p3b)
 <!-- BLOG-POST-LIST:END -->
 
 
