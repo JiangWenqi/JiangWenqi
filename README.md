@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [Back to Front Linked List](https://dev.to/jiangwenqi/back-to-front-linked-list-1cbo)
 - [Linked List Delete Last Occurrence of Value](https://dev.to/jiangwenqi/linked-list-delete-last-occurrence-of-value-5c2p)
 - [Next Greater Element of a Linked List](https://dev.to/jiangwenqi/next-greater-element-of-a-linked-list-4pd4)
 - [Reverse an Inner Linked List](https://dev.to/jiangwenqi/reverse-an-inner-linked-list-3lge)
 - [Pairwise Linked List Swap](https://dev.to/jiangwenqi/pairwise-linked-list-swap-5g36)
-- [Remove Duplicates in Linked List](https://dev.to/jiangwenqi/remove-duplicates-in-linked-list-4io)
 <!-- BLOG-POST-LIST:END -->
 
 
