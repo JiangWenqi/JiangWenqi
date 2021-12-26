@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [Anagram Substrings](https://dev.to/jiangwenqi/anagram-substrings-jpi)
 - [Sort String by Flipping](https://dev.to/jiangwenqi/sort-string-by-flipping-4ja3)
 - [Edit Distance](https://dev.to/jiangwenqi/edit-distance-2b28)
 - [Anagram Partitioning](https://dev.to/jiangwenqi/anagram-partitioning-1k24)
 - [Linked List Partitioning](https://dev.to/jiangwenqi/linked-list-partitioning-3k29)
-- [Replace Linked List on Index](https://dev.to/jiangwenqi/replace-linked-list-on-index-4c3o)
 <!-- BLOG-POST-LIST:END -->
 
 
