@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [Space Battle](https://dev.to/jiangwenqi/space-battle-17el)
 - [621. Task Scheduler](https://dev.to/jiangwenqi/621-task-scheduler-g82)
 - [Word Concatenation](https://dev.to/jiangwenqi/word-concatenation-ij8)
 - [Anagram Substrings](https://dev.to/jiangwenqi/anagram-substrings-jpi)
 - [Sort String by Flipping](https://dev.to/jiangwenqi/sort-string-by-flipping-4ja3)
-- [Edit Distance](https://dev.to/jiangwenqi/edit-distance-2b28)
 <!-- BLOG-POST-LIST:END -->
 
 
