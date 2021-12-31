@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [114. Flatten Binary Tree to Linked List](https://dev.to/jiangwenqi/114-flatten-binary-tree-to-linked-list-4mim)
 - [54. Spiral Matrix](https://dev.to/jiangwenqi/54-spiral-matrix-o41)
 - [Space Battle](https://dev.to/jiangwenqi/space-battle-17el)
 - [621. Task Scheduler](https://dev.to/jiangwenqi/621-task-scheduler-g82)
 - [Word Concatenation](https://dev.to/jiangwenqi/word-concatenation-ij8)
-- [Anagram Substrings](https://dev.to/jiangwenqi/anagram-substrings-jpi)
 <!-- BLOG-POST-LIST:END -->
 
 
