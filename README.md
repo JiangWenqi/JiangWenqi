@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [290. Word Pattern](https://dev.to/jiangwenqi/290-word-pattern-1o18)
 - [1345. Jump Game IV](https://dev.to/jiangwenqi/1345-jump-game-iv-n2k)
 - [List Partitioning](https://dev.to/jiangwenqi/list-partitioning-13b1)
 - [148. Sort List](https://dev.to/jiangwenqi/148-sort-list-50gp)
 - [Valid N Queens](https://dev.to/jiangwenqi/valid-n-queens-328g)
-- [Binary Search Templates Final Version](https://dev.to/jiangwenqi/binary-search-templates-final-version-3mmf)
 <!-- BLOG-POST-LIST:END -->
 
 
