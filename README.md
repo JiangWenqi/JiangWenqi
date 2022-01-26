@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](https://dev.to/jiangwenqi/106-construct-binary-tree-from-inorder-and-postorder-traversal-2n6o)
 - [1305. All Elements in Two Binary Search Trees](https://dev.to/jiangwenqi/1305-all-elements-in-two-binary-search-trees-57m8)
 - [Equal Partitions](https://dev.to/jiangwenqi/equal-partitions-276g)
 - [Bounded Square Sums](https://dev.to/jiangwenqi/bounded-square-sums-1k0j)
 - [Interval Overlaps](https://dev.to/jiangwenqi/interval-overlaps-4gc3)
-- [Sort by Permutation](https://dev.to/jiangwenqi/sort-by-permutation-2c89)
 <!-- BLOG-POST-LIST:END -->
 
 
