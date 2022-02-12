@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [127. Word Ladder](https://dev.to/jiangwenqi/127-word-ladder-ma7)
 - [Group Points](https://dev.to/jiangwenqi/group-points-5f4p)
 - [Most Frequent Number in Intervals](https://dev.to/jiangwenqi/most-frequent-number-in-intervals-33g6)
 - [684. Redundant Connection](https://dev.to/jiangwenqi/684-redundant-connection-2e3g)
 - [Merge Sort Template](https://dev.to/jiangwenqi/merge-sort-template-3bl4)
-- [Use Siri Shortcut to Create Notion Pages](https://dev.to/jiangwenqi/use-siri-shortcut-to-create-notion-pages-ngo)
 <!-- BLOG-POST-LIST:END -->
 
 
