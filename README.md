@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [1288. Remove Covered Intervals](https://dev.to/jiangwenqi/1288-remove-covered-intervals-3hge)
 - [567. Permutation in String](https://dev.to/jiangwenqi/567-permutation-in-string-3974)
 - [127. Word Ladder](https://dev.to/jiangwenqi/127-word-ladder-ma7)
 - [Group Points](https://dev.to/jiangwenqi/group-points-5f4p)
 - [Most Frequent Number in Intervals](https://dev.to/jiangwenqi/most-frequent-number-in-intervals-33g6)
-- [684. Redundant Connection](https://dev.to/jiangwenqi/684-redundant-connection-2e3g)
 <!-- BLOG-POST-LIST:END -->
 
 
