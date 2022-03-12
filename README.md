@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning a master program in Data Science at Universidad Politécnica de Madrid
-- 🔭 I’m currently working on Ontology Engineering Group (UPM) 
+- 🌱 I’m currently studying MSc. Data Science at Universidad Politécnica de Madrid
+- 🔭 I’m currently working in Ontology Engineering Group (UPM) 
 - 🏋️ I'm currently training powerlifting in Madrid
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
