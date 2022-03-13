@@ -6,11 +6,11 @@
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [Longest Strictly Increasing Then Decreasing Sublist](https://dev.to/jiangwenqi/longest-strictly-increasing-then-decreasing-sublist-3c73)
 - [962. Maximum Width Ramp](https://dev.to/jiangwenqi/962-maximum-width-ramp-32ja)
 - [456. 132 Pattern](https://dev.to/jiangwenqi/456-132-pattern-3j5m)
 - [Reverse Linked List Groups](https://dev.to/jiangwenqi/reverse-linked-list-groups-5bd9)
 - [Jena Custom Functions](https://dev.to/jiangwenqi/jena-custom-functions-1pg9)
-- [138. Copy List with Random Pointer](https://dev.to/jiangwenqi/138-copy-list-with-random-pointer-3ka8)
 <!-- BLOG-POST-LIST:END -->
 
 
