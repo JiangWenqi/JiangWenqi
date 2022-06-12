@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in Ontology Engineering Group (UPM) 
 - 🏋️ I'm currently training powerlifting in Madrid
 
-> For more information, check my [online resume](jiangwenqi.info).
+> For more information, check my [online resume](https://jiangwenqi.info/).
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
