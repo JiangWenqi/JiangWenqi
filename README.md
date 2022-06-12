@@ -4,6 +4,8 @@
 - 🔭 I’m currently working in Ontology Engineering Group (UPM) 
 - 🏋️ I'm currently training powerlifting in Madrid
 
+> For more information, check my [online resume](jiangwenqi.info).
+
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
 - [[Grind 75] 57. Insert Interval](https://dev.to/jiangwenqi/grind-75-57-insert-interval-4kp8)
