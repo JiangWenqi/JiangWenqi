@@ -11,11 +11,11 @@ Furthermore, I enjoy powerlifting and traveling in my spare time.
 
 # [Blog Posts](https://www.dev.to/jiangwenqi)
 <!-- BLOG-POST-LIST:START -->
+- [990. Satisfiability of Equality Equations](https://dev.to/jiangwenqi/990-satisfiability-of-equality-equations-4f2k)
 - [1457. Pseudo-Palindromic Paths in a Binary Tree](https://dev.to/jiangwenqi/1457-pseudo-palindromic-paths-in-a-binary-tree-jj0)
 - [1383. Maximum Performance of a Team](https://dev.to/jiangwenqi/1383-maximum-performance-of-a-team-2ee2)
 - [Some Tips for UCAT](https://dev.to/jiangwenqi/some-tips-for-ucat-3f3k)
 - [210. Course Schedule II](https://dev.to/jiangwenqi/210-course-schedule-ii-10ml)
-- [417. Pacific Atlantic Water Flow](https://dev.to/jiangwenqi/417-pacific-atlantic-water-flow-4kog)
 <!-- BLOG-POST-LIST:END -->
 
 
